@@ -13,9 +13,11 @@
     },
     {
       "type": "java",
-      "name": "Launch Current File",
+      "name": "Launch Lox File",
       "request": "launch",
-      "mainClass": "${file}"
+      "mainClass": "com.craftinginterpreters.lox.Lox",
+      "projectName": "MyInterpreter_5e53cd84",
+      "args": "C:\\Users\\mattj\\OneDrive\\Documents\\CraftingInterpreters\\MyInterpreter\\test.lox"
     },
     {
       "type": "java",
