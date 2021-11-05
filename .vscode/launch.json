@@ -9,29 +9,29 @@
       "name": "Launch AstPrinter",
       "request": "launch",
       "mainClass": "com.craftinginterpreters.lox.AstPrinter",
-      "projectName": "MyInterpreter_5e53cd84"
+      "projectName": "MyCraftingInterpreter_7bf1edd"
     },
     {
       "type": "java",
       "name": "Launch Lox File",
       "request": "launch",
       "mainClass": "com.craftinginterpreters.lox.Lox",
-      "projectName": "MyInterpreter_5e53cd84",
-      "args": "C:\\Users\\mattj\\OneDrive\\Documents\\CraftingInterpreters\\MyInterpreter\\test.lox"
+      "projectName": "MyCraftingInterpreter_7bf1edd",
+      "args": "C:\\Users\\mattj\\Documents\\MyCraftingInterpreter\\test.lox"
     },
     {
       "type": "java",
       "name": "Launch Lox",
       "request": "launch",
       "mainClass": "com.craftinginterpreters.lox.Lox",
-      "projectName": "MyInterpreter_5e53cd84"
+      "projectName": "MyCraftingInterpreter_7bf1edd"
     },
     {
       "type": "java",
       "name": "Launch GenerateAst",
       "request": "launch",
       "mainClass": "com.craftinginterpreters.tool.GenerateAst",
-      "projectName": "MyInterpreter_5e53cd84",
+      "projectName": "MyCraftingInterpreter_7bf1edd",
       "args": "C:\\Users\\mattj\\MiscDev\\GeneratedCraftingInterpretersFiles"
     }
   ]
